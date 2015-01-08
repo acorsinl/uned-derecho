@@ -1,7 +1,7 @@
 #Tema 2
 ##Estructura general y clases de las normas jurídicas
 
-El derecho es, fundamentalmente, un instrumento que ordena la convivencia social. El Derecho es un conjunto de reglas que trata de dar solución a los conflictos sociales. Esas reglas se llaman \textbf{normas jurídicas} y están caracterizadas por:
+El derecho es, fundamentalmente, un instrumento que ordena la convivencia social. El Derecho es un conjunto de reglas que trata de dar solución a los conflictos sociales. Esas reglas se llaman **normas jurídicas** y están caracterizadas por:
 
 - **Obligatoriedad:** tienen que ser tenidas en cuenta por los ciudadanos
 - **Coercibilidad:** pueden imponerse por la fuerza
@@ -79,7 +79,7 @@ Otros posibles significados de fuentes del derecho:
 - **Conocimientos:** también se habla de *fuentes del conocimiento del Derecho* para hacer referencia al Instrumental del que se sirven los juristas para identificar el Derecho positivo de una determinada colectivdad y un preciso momento histórico.
 
 ###La consideración del tema desde el prisma constitucional
-Se ha afirmado que el título preliminar del Código Civil tiene \textem{valor constitucional}, pero no cabe duda de que mayor valor constitucional tiene el propio artículo 1.2 de la Constitución: *la soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado*.
+Se ha afirmado que el título preliminar del Código Civil tiene *valor constitucional*, pero no cabe duda de que mayor valor constitucional tiene el propio artículo 1.2 de la Constitución: *la soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado*.
 
 Al ser la constitución una derivación de dicha soberanía nacional (ya que el pueblo español la aprobó por referéndum), es precisamente ella la que delimita el verdadero sistema normativo y expresa las capacidades legislativas de las instituciones.
 
@@ -110,7 +110,7 @@ La costumbre es una fuente del Derecho de **carácter subsidiario** (respecto a 
 
 La costumbre es una fuente de derecho por la Ley lo determina así. Es la propia Ley la que establece los límites y condiciones de las costumbres.
 
-La costumbre es una fuente de derecho de **carácter secundario**: quien pretenda que se le aplique la costumbre en un juicio tiene que alegar y probar la existencia y vigencia de la costumbre en cuestión (artículo 1.3 del código civil). \textit{Regla iura novit curia}.
+La costumbre es una fuente de derecho de **carácter secundario**: quien pretenda que se le aplique la costumbre en un juicio tiene que alegar y probar la existencia y vigencia de la costumbre en cuestión (artículo 1.3 del código civil). *Regla iura novit curia*.
 
 La costumbre tiene que ser **racional** (razón = derecho natural). Es decir, que no sea contraria a la moral social dominante, no a la moral de quien aplica el derecho o al orden público (las disposiciones legales que están por encima de las costumbres).
 
